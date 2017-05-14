@@ -1,0 +1,16 @@
+ul {list-style-type: none;padding-left: 25px;}
+a{color:gray;text-decoration: none;}
+a:hover{color: white;}
+#one{background-image: url(../image/bj.png);
+	background-repeat: no-repeat;
+	width: 350px; height: 600px;}
+#first{background-image: url(../image/header.png);width: 200px;
+		height: 70px;background-repeat: no-repeat;
+		list-style-type: none;}
+#second{background-image: url(../image/lvbiaoti.png);
+		background-repeat:no-repeat;
+		height: 20px; width: 70px;
+		padding:8px 50px;margin: 20px 0px;}
+.third{background-image: url(../image/baibiaoti.png);
+		background-repeat: no-repeat;
+		padding:8px 50px;width: 200px;height: 30px;}

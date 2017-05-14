@@ -1,0 +1,33 @@
+#titlediv{background-image: url(../image/left_nav_title.gif);
+			width: 183px;height: 18px; background-repeat: no-repeat;
+		color: white;padding:10px 60px}
+ul {list-style-image: url(../image/left_cur.gif);
+	 background-image: url(../image/left_nav_txt.gif);
+	 background-repeat: repeat-y;
+	 margin-top: 0px;margin-bottom: 0px;}
+#firstli{background-image: url(../image/left_nav_item.gif);
+	background-repeat: no-repeat;
+	margin-left: 40px;
+	padding-top: 5px;
+	background-position: -3em 90%;
+	margin-left: 0px;
+	width: 183px; height:30px;}
+#secondli{background-image: url(../image/left_nav_item.gif);
+	background-repeat: no-repeat;
+	margin-left: 40px;
+	padding-top: 5px;
+	background-position: -3em 90%;
+	margin-left: 0px;
+	width: 183px; height:30px;}
+#thirdli{background-image: url(../image/left_nav_item.gif);
+	background-repeat: no-repeat;
+	margin-left: 40px;
+	padding-top: 5px;
+	background-position: -3em 90%;
+	margin-left: 0px;
+	width: 183px; height:30px}
+a:link{text-decoration: none;font-family: '楷书';}
+a:hover{color:red;font-family: '楷书';font-size: 18px;}
+#footerdiv{background-image: url(../image/left_nav_bottom.gif);
+	width: 183px;height: 30px;margin-top: 0px;
+	}
