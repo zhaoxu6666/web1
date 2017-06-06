@@ -1,0 +1,27 @@
+.imgage
+{
+    width: 200px;
+    height: 190px;
+    float: left; 
+    margin-left: 2px; 
+    border: 1px solid #ccc;
+    padding: 1px; 
+}
+.imgage img
+{
+	display: inline;
+	border: 1px solid #bebebe;
+	width: 200px;
+	height: 160px;
+	opacity: 0.5;
+
+}
+.imgage a:hover img
+{
+	border: 1px solid #333333;
+	opacity: 1;
+}
+.desc
+{
+	text-align: center;
+}
