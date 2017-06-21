@@ -22,7 +22,7 @@ a:hover   {text-decoration: underline;}
           left: 300px;
           background-image: url(../images/5.jpg);}
     #wenzi{line-height: 50px;
-           font-weight: 400px;
+           font-weight: 400;
            font-size: 20px;
            position: absolute;
            left: 440px;
@@ -43,11 +43,10 @@ a:hover   {text-decoration: underline;}
            #daohang ul li a{width: 100px;
            	                text-decoration: none;
            	                line-height: 48px;
-           	                font-weight: bold;
            	                float: left;
            	                text-align: center;
-           	                font-weight: 400px;
-                            font-size: 15px;}  
+           	                font-weight: 700;
+                            font-size: 15px;} 
         #sousuo{height: 40px;width: 200px; float: right;margin-top: 5px;margin-right: 15px;}
             #baikuang{width: 140px;
                       height: 19px;
@@ -94,30 +93,30 @@ a:hover   {text-decoration: underline;}
                margin-top: 20px;
                text-align: center;}
             .eryi{height: 50px;
-                  width: 300;
+                  width: 300px;
                   line-height: 50px;
                   font-size:20px;
-                  font-weight: 400px;
+                  font-weight: 400;
                   margin-top: 10px;
                   text-align: center;}
             #erer{height: 50px;
-                  width: 300;
+                  width: 300px;
                   line-height: 50px;
-                  font-weight: 400px;
+                  font-weight: 400;
                   font-size: 18px;
                   margin-top: 10px; }
             #ersan{height: 50px;
-                  width: 300;
+                  width: 300px;
                   line-height: 50px;
-                  font-weight: 400px;
+                  font-weight: 400;
                   font-size: 18px;
                   margin-top: 10px; }
             #ersi{height: 50px;
-                  width: 300;
+                  width: 300px;
                   line-height: 50px;}
                 #ersi a{float: right;
                         margin-right: 50px;
-                        font-weight: 400px;
+                        font-weight: 400;
                         font-size: 18px;}
         #zuosan{width: 300px;
                 height: 480px;}
@@ -125,8 +124,6 @@ a:hover   {text-decoration: underline;}
                 	         line-height: 40px;
                 	         list-style: disc;
                 	         font-size: 15px;}
-                .saner ul li a{position: relative;
-                               right: : 50px;}
                 .renshu{position: absolute;
                 	    right: 5px;}
                 #dian{list-style: none;}
@@ -137,18 +134,18 @@ a:hover   {text-decoration: underline;}
         #youyi{height: 460px;
                width: 680px;
                margin-top: 36px;}
-            #youyiyi{height: 50px;
-            	     width:680; 
+            .youyiyi{height: 50px;
+            	     width:680px; 
             	     border-bottom: 1px solid black;}
-            	#zui{line-height: 50px;
+            	.zui{line-height: 50px;
                      font-size:20px;
-                     font-weight: 700px;
+                     font-weight: 700;
                      font-family: '黑体';
                      float: left;}
                 #youyiyi a{line-height: 50px;
                      font-size:20px;
                      color: red;
-                     font-weight: 700px;
+                     font-weight: 700;
                      font-family: '黑体';
                      float: right;
                      margin-right: 20px;}

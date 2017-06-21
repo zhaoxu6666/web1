@@ -22,7 +22,7 @@ a:hover   {text-decoration: underline;}
           left: 300px;
           background-image: url(../images/5.jpg);}
     #wenzi{line-height: 50px;
-           font-weight: 400px;
+           font-weight: 400;
            font-size: 20px;
            position: absolute;
            left: 440px;
@@ -43,12 +43,15 @@ a:hover   {text-decoration: underline;}
            #daohang ul li a{width: 100px;
            	                text-decoration: none;
            	                line-height: 48px;
-           	                font-weight: bold;
            	                float: left;
            	                text-align: center;
-           	                font-weight: 400px;
+           	                font-weight: 700;
                             font-size: 15px;}  
-        #sousuo{height: 40px;width: 200px; float: right;margin-top: 5px;margin-right: 15px;}
+        #sousuo{height: 40px;
+                width: 200px; 
+                float: right;
+                margin-top: 5px;
+                margin-right: 15px;}
             #baikuang{width: 140px;
                       height: 19px;
                       background-color: #f8f5ee;}
@@ -97,10 +100,10 @@ a:hover   {text-decoration: underline;}
                margin-top: 20px;
                text-align: center;}
             .eryi{height: 50px;
-                  width: 300;
+                  width: 300px;
                   line-height: 50px;
                   font-size:20px;
-                  font-weight: 400px;
+                  font-weight: 400;
                   margin-top: 10px;
                   text-align: center;}
             #erer{width: 100px;
@@ -113,7 +116,7 @@ a:hover   {text-decoration: underline;}
                    height: 50px;
                    line-height: 50px;
                    font-size:20px;
-                   font-weight: 700px;
+                   font-weight: 700;
                    float: left;
                    margin-top: 45px;
                    margin-left: 10px;
@@ -124,7 +127,7 @@ a:hover   {text-decoration: underline;}
                   line-height: 50px;
                   float: left;
                   font-size:20px;
-                  font-weight: 700px;
+                  font-weight: 700;
                   font-family: '宋体';
                   margin-top: 15px;}
         #zuosan{width: 300px;
@@ -133,8 +136,6 @@ a:hover   {text-decoration: underline;}
                            line-height: 40px;
                            list-style: disc;
                            font-size: 15px;}
-                .saner ul li a{position: relative;
-                               right: : 50px;}
                 .renshu{position: absolute;
                       right: 5px;}
                 #dian{list-style: none;}
@@ -150,7 +151,7 @@ a:hover   {text-decoration: underline;}
                margin: 0px auto;
                line-height: 50px;
                font-size:20px;
-               font-weight: 900px;
+               font-weight: 700;
                font-family: '宋体';
                color: #DA6244;}
         #yousan{height: 800px;
@@ -160,9 +161,7 @@ a:hover   {text-decoration: underline;}
                            line-height: 40px;
                            list-style: disc;
                            font-size: 15px;}
-                #yousan ul li a{position: relative;
-                               right: : 50px;}
-                #shijian{position: absolute;
+                .shijian{position: absolute;
                          right: 5px;}
 
 
