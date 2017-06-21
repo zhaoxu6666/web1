@@ -1,0 +1,49 @@
+body{font-size:12px;
+     color: #522a06;
+     padding: 0px; 
+     margin: 0px;}
+#da{margin: 0px auto;
+	margin-left: 25px;
+	margin-top: 30px;
+    width: 910px;
+	height: 600px;
+    background-image: url(../images/1.jpeg);
+    float: left;}
+#dayi{width: 120px;
+	  height: 120px;
+	  position:relative;
+      left: 450px;
+      top: 115px;
+     }
+#daer{width: 300px;
+      height: 80px;
+      position: relative;
+      top: 150px;
+      background-color: white;}
+      #daer a{font-weight: 700;
+              font-size: 30px;
+              color: orange;
+              position: relative;
+              top: 20px;
+              left: 10px;
+              text-decoration: none;}
+      #daer a:hover{text-decoration: underline;}
+#zuo{width: 280px;
+     height: 700px;
+     background-color: orange;
+     margin-top: 30px;
+     float: left;}
+#you{width: 280px;
+     height: 700px;
+     background-color: orange;
+     margin-top: 30px;
+     float: right;}
+#xia{height: 100px;
+	 width:910px;
+	 margin: 0px auto;
+	 margin-left: 25px;
+	 float: left;
+	 background-image: url(../images/4.jpg);}
+    .xian{height: 5px;width: 800px;margin: 0px auto;border-top: 1px solid black;margin-top: 40px;}
+            .di1{height: 25px;width: 600px;margin: 0px auto;text-align: center;}
+            .di2{height: 25px;width: 600px;margin: 0px auto;text-align: center;}

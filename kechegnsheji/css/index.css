@@ -1,0 +1,186 @@
+body      {font-size: 12px;
+		   color: #522a06;
+		   padding: 0px; 
+		   margin: 0px auto;}
+ul li     {list-style: none;}
+a         {text-decoration: none;
+		   color:#522a06;}
+a:hover   {text-decoration: underline;}
+#dingbu{height: 200px;}
+    #yi{height: 50px;
+    	background-color: #FFAA05;}
+    #er{height: 50px;
+    	background-color: #FFC754;}
+    #san{height: 50px;
+    	background-color: #FFDE9E;}
+    #si{height: 50px;
+    	background-color: #FFF8E7;}
+    #logo{width: 100px;
+    	  height: 100px;
+    	  position: absolute;
+          top: 25px;
+          left: 300px;
+          background-image: url(../images/5.jpg);}
+    #wenzi{line-height: 50px;
+           font-weight: 400px;
+           font-size: 20px;
+           position: absolute;
+           left: 440px;
+           top: 50px;}
+    #yihang{width: 1000px;
+    	    height: 50px;
+    	    margin: 0px auto;}
+        #daohang{height: 50px;width: 750px;float:left;}
+           #shouye{color: orange;}
+           #daohang ul{list-style-type: none;
+           	           padding: 0px;
+           	           margin: 0px;
+           	           text-align: center}
+           #daohang ul li{text-align: center;
+           	              float: left;
+           	              line-height: 50px;
+           	              font-weight: bolder;}
+           #daohang ul li a{width: 100px;
+           	                text-decoration: none;
+           	                line-height: 48px;
+           	                font-weight: bold;
+           	                float: left;
+           	                text-align: center;
+           	                font-weight: 400px;
+                            font-size: 15px;}  
+        #sousuo{height: 40px;width: 200px; float: right;margin-top: 5px;margin-right: 15px;}
+            #baikuang{width: 140px;
+                      height: 19px;
+                      background-color: #f8f5ee;}
+            #anniu{height: 21px;
+                   width: 40px;
+                   background-color:#000;
+                   color: #fff;
+                   border: 1px solid #f8f5ee;
+                   margin-top: 9px;}
+#zhongbu{width: 1000px;
+         height: 1000px;
+         margin: 0px auto;
+         background-image: url(../images/7.jpg);}
+    #zhongzuo{width: 310px;
+              height: 990px;
+              padding-top: 10px;
+              padding-left: 10px;
+              float: left;}
+        #zuoyi{width: 300px;
+        	   height: 100px;
+        	   margin-bottom: 55px;
+        	   margin-top: 25px;}
+        	#yiyi{width: 90px;
+        		  height: 100px;
+        	      font-weight: 700;
+        	      font-size: 20px;
+        	      color: #675EF7;
+        	      text-align: center;
+        	      background-color: #AEDAD5;
+        	      float: left;
+        	      line-height: 100px;}
+        	#yier{width: 210px;
+        		  height: 100px;
+        	      text-align: center;
+        	      font-weight: 700;
+        	      font-size: 40px;
+        	      color: #675EF7;
+        	      background-color: #F4F7E9;
+        	      float: right;
+        	      line-height: 100px;}
+        #zuoer{width:300px;
+               height: 300px;
+               margin-top: 20px;
+               text-align: center;}
+            .eryi{height: 50px;
+                  width: 300;
+                  line-height: 50px;
+                  font-size:20px;
+                  font-weight: 400px;
+                  margin-top: 10px;
+                  text-align: center;}
+            #erer{height: 50px;
+                  width: 300;
+                  line-height: 50px;
+                  font-weight: 400px;
+                  font-size: 18px;
+                  margin-top: 10px; }
+            #ersan{height: 50px;
+                  width: 300;
+                  line-height: 50px;
+                  font-weight: 400px;
+                  font-size: 18px;
+                  margin-top: 10px; }
+            #ersi{height: 50px;
+                  width: 300;
+                  line-height: 50px;}
+                #ersi a{float: right;
+                        margin-right: 50px;
+                        font-weight: 400px;
+                        font-size: 18px;}
+        #zuosan{width: 300px;
+                height: 480px;}
+                .saner ul li{position: relative;
+                	         line-height: 40px;
+                	         list-style: disc;
+                	         font-size: 15px;}
+                .saner ul li a{position: relative;
+                               right: : 50px;}
+                .renshu{position: absolute;
+                	    right: 5px;}
+                #dian{list-style: none;}
+    #zhongyou{width: 670px;
+              height: 1000px;
+              float: left;
+              margin-right: 10px;}
+        #youyi{height: 460px;
+               width: 680px;
+               margin-top: 36px;}
+            #youyiyi{height: 50px;
+            	     width:680; 
+            	     border-bottom: 1px solid black;}
+            	#zui{line-height: 50px;
+                     font-size:20px;
+                     font-weight: 700px;
+                     font-family: '黑体';
+                     float: left;}
+                #youyiyi a{line-height: 50px;
+                     font-size:20px;
+                     color: red;
+                     font-weight: 700px;
+                     font-family: '黑体';
+                     float: right;
+                     margin-right: 20px;}
+                #youyier{width: 600px;
+                         height: 350px;
+                         margin:0px auto;
+                         margin-top: 20px;}
+                    #youyier img{opacity: 0.5;} 
+                    #youyier a:hover img{opacity:1;}    
+        #youer{height: 500px;
+               width: 680px;
+               margin-top: 10px;}
+            #zi{height: 449px;
+                width: 680px;}
+                #ji{width: 280px;
+                    height: 400px;
+                    background-image: url(../images/9.jpg);
+                    margin-left: 10px;
+                    margin-top: 20px;
+                    float: left;}
+                #de{width: 350px;
+                    height: 449px;
+                    float: left;
+                    margin-left: 25px;
+                    margin-top: 7px;}
+                    p{text-indent: 2em;
+                      font:400 20px '楷体';
+                      line-height: 40px;}
+                    h1{font-size: 20px;}
+#xia{height: 100px;
+	 width:1000px;
+	 margin: 0px auto;
+	 background-image: url(../images/6.jpg);}
+    .xian{height: 5px;width: 800px;margin: 0px auto;margin-top: 40px;}
+            .di1{height: 25px;width: 600px;margin: 0px auto;text-align: center;}
